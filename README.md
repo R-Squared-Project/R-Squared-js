@@ -1,13 +1,13 @@
-# RevPopJS (revpopjs)
+# R-Squared-js (rsquared-js)
 
-Pure JavaScript RevPop library for node.js and browsers. Can be used to construct, sign and broadcast transactions in JavaScript, and to easily obtain data from the blockchain via public apis.
+Pure JavaScript R-Squared library for node.js and browsers. Can be used to construct, sign and broadcast transactions in JavaScript, and to easily obtain data from the blockchain via public apis.
 
 ## Setup
 
 This library can be obtained through npm:
 
 ```
-npm install @revolutionpopuli/revpopjs
+npm install @r-squared/rsquared-js
 ```
 
 ## Usage
@@ -53,8 +53,8 @@ The Chain library contains a complete state container called the ChainStore. The
 The ChainStore has several useful methods to retrieve, among other things, objects, assets and accounts using either object ids or asset/account names. These methods are synchronous and will return `undefined` to indicate fetching in progress, and `null` to indicate that the object does not exist.
 
 ```
-import {Apis} from "@revolutionpopuli/revpopjs-ws";
-var {ChainStore} = require("revpopjs");
+import {Apis} from "@r-squared/rsquared-js-ws";
+var {ChainStore} = require("rsquared-js");
 
 Apis.instance("wss://localhost", true).init_promise.then((res) => {
     console.log("connected to:", res[0].network);
@@ -79,7 +79,7 @@ The ECC library contains all the crypto functions for private and public keys as
 As a quick example, here's how to generate a new private key from a seed (a brainkey for example):
 
 ```
-var {PrivateKey, key} = require("revpopjs");
+var {PrivateKey, key} = require("rsquared-js");
 
 let seed = "THIS IS A TERRIBLE BRAINKEY SEED WORD SEQUENCE";
 let pkey = PrivateKey.fromSeed( key.normalize_brainKey(seed) );
@@ -102,14 +102,14 @@ open out/esdoc/index.html
 
 ## Binaries / Browserified bundles
 
-Please have a [look here](https://github.com/Revolution-Populi/revpop-js/releases) to find your desired release.
+Please have a [look here](https://github.com/R-Squared-Project/R-Squared-js/releases) to find your desired release.
 
 If you want to build the binaries yourself you can clone this repository and run `npm install`. It will
 create
 
--   Browserified version `build/revpopjs.js`
--   Browserified and minified (babel) version `build/revpopjs.min.js`
--   CommonJS version using wepback `build/revpopjs.cjs`
+-   Browserified version `build/rsquared-js.js`
+-   Browserified and minified (babel) version `build/rsquared-js.min.js`
+-   CommonJS version using wepback `build/rsquared-js.cjs`
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.

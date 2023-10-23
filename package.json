@@ -1,7 +1,7 @@
 {
-    "name": "@revolutionpopuli/revpopjs",
-    "version": "6.0.4",
-    "description": "Pure JavaScript RevPop library for node.js and browsers.",
+    "name": "@r-squared/rsquared-js",
+    "version": "6.0.6",
+    "description": "Pure JavaScript R-Squared library for node.js and browsers.",
     "browser": {
         "ws": false,
         "crypto": false
@@ -22,8 +22,8 @@
         "postbuild": "yarn run browserify && yarn run build-es && yarn run webpack",
         "build:watch": "babel lib -d dist --watch",
         "prebrowserify": "mkdirp build",
-        "browserify": "cross-env NODE_ENV=production browserify --full-paths false dist/browser.js --standalone revpop_js -o build/revpopjs.js -d",
-        "postbrowserify": "cross-env NODE_ENV=production minify build/revpopjs.js --mangle --outFile build/revpopjs.min.js",
+        "browserify": "cross-env NODE_ENV=production browserify --full-paths false dist/browser.js --standalone rsquared_js -o build/rsquared-js.js -d",
+        "postbrowserify": "cross-env NODE_ENV=production minify build/rsquared-js.js --mangle --outFile build/rsquared-js.min.js",
         "precommit": "pretty-quick --staged && yarn run test",
         "doc": "esdoc -c esdoc.json",
         "example:asset": "babel-node examples/updateAsset",
@@ -40,9 +40,9 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/Revolution-Populi/revpop-js.git"
+        "url": "https://github.com/R-Squared-Project/R-Squared-js"
     },
-    "author": "Revolution Populi Limited <robert.b.rosenthal@gmail.com>",
+    "author": "R-Squared Labs LLC <rsquaredlabscontact@gmail.com>",
     "contributors": [
         "Robert Rosenthal <robert.b.rosenthal@gmail.com> (https://github.com/Revolution-Populi)",
         "Sigve Kvalsvik <bitsharesblocks@gmail.com> (https://github.com/svk31)",
@@ -52,7 +52,7 @@
     ],
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/Revolution-Populi/revpop-js/issues"
+        "url": "https://github.com/R-Squared-Project/R-Squared-js/issues"
     },
     "engines": {
         "node": ">= 16.13.0"
@@ -60,7 +60,7 @@
     "main": "./dist/index.js",
     "jsnext:main": "./es/index.js",
     "dependencies": {
-        "@revolutionpopuli/revpopjs-ws": "^6.0.0",
+        "@r-squared/rsquared-js-ws": "^6.0.1",
         "aws-sdk": "^2.810.0",
         "bigi": "^1.4.2",
         "bs58": "^4.0.1",
@@ -84,7 +84,7 @@
         "@babel/preset-env": "^7.16.7",
         "@babel/register": "^7.16.7",
         "assert": "^2.0.0",
-        "babel-minify": "^0.5.1",
+        "babel-minify": "^0.5.2",
         "babel-plugin-add-module-exports": "^1.0.4",
         "babel-preset-minify": "^0.5.1",
         "browserify": "^17.0.0",
@@ -98,5 +98,16 @@
         "stream-browserify": "^3.0.0",
         "webpack": "^5.65.0",
         "webpack-cli": "^4.9.1"
+    },
+    "overrides": {
+        "esdoc": {
+            "minimist": "^1.2.6"
+        },
+        "detect-indent": {
+            "minimist": "^1.2.6"
+        },
+        "subarg": {
+            "minimist": "^1.2.6"
+        }
     }
 }

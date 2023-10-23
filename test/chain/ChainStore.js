@@ -1,5 +1,5 @@
 import assert from "assert";
-import {Apis, ChainConfig} from "@revolutionpopuli/revpopjs-ws";
+import {Apis, ChainConfig} from "@r-squared/rsquared-js-ws";
 import {ChainStore} from "../../lib";
 // var objs = require("./testObjects.json");
 
@@ -9,7 +9,7 @@ xdescribe("ChainStore", () => {
     // Connect once for all tests
     before(function() {
         return Apis.instance(
-            "wss://testnet.revolutionpopuli.com",
+            "wss://node.rsquared.digital",
             true
         ).init_promise.then(function(result) {
             coreAsset = result[0].network.core_asset;
@@ -192,7 +192,7 @@ xdescribe("ChainStore", () => {
 //     before(function() {
 //         return new Promise(function(resolve) {
 //             return Apis.instance(
-//                 "wss://testnet.revolutionpopuli.com",
+//                 "wss://node.rsquared.digital",
 //                 true
 //             ).init_promise.then(function(result) {
 //                 coreAsset = result[0].network.core_asset;

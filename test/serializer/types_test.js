@@ -7,7 +7,7 @@ import th from "./test_helper";
 
 import {is} from "immutable";
 import {PublicKey, PrivateKey, types} from "../../lib";
-import {ChainConfig} from "@revolutionpopuli/revpopjs-ws";
+import {ChainConfig} from "@r-squared/rsquared-js-ws";
 
 describe("types", function() {
     it("vote_id", function() {

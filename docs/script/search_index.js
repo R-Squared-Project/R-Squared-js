@@ -1,1262 +1,1484 @@
 window.esdocSearchIndex = [
   [
-    "@revolutionpopuli/revpopjs/lib/chain/src/accountlogin.js~accountlogin",
+    "@r-squared/rsquared-js/lib/chain/src/accountlogin.js~accountlogin",
     "class/lib/chain/src/AccountLogin.js~AccountLogin.html",
-    "<span>AccountLogin</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/chain/src/AccountLogin.js</span>",
+    "<span>AccountLogin</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/chain/src/AccountLogin.js</span>",
     "class"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/storage/src/adapter.js~adapter",
+    "@r-squared/rsquared-js/lib/storage/src/adapter.js~adapter",
     "class/lib/storage/src/Adapter.js~Adapter.html",
-    "<span>Adapter</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/storage/src/Adapter.js</span>",
+    "<span>Adapter</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/storage/src/Adapter.js</span>",
     "class"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/ecc/src/address.js~address",
+    "@r-squared/rsquared-js/lib/ecc/src/address.js~address",
     "class/lib/ecc/src/address.js~Address.html",
-    "<span>Address</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/ecc/src/address.js</span>",
+    "<span>Address</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/ecc/src/address.js</span>",
     "class"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/ecc/src/aes.js~aes",
+    "@r-squared/rsquared-js/lib/ecc/src/aes.js~aes",
     "class/lib/ecc/src/aes.js~Aes.html",
-    "<span>Aes</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/ecc/src/aes.js</span>",
+    "<span>Aes</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/ecc/src/aes.js</span>",
     "class"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/chain/src/chainstore.js~chainstore",
+    "@r-squared/rsquared-js/lib/chain/src/chainstore.js~chainstore",
     "class/lib/chain/src/ChainStore.js~ChainStore.html",
-    "<span>ChainStore</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/chain/src/ChainStore.js</span>",
+    "<span>ChainStore</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/chain/src/ChainStore.js</span>",
     "class"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/chain/src/chaintypes.js~chaintypes",
+    "@r-squared/rsquared-js/lib/chain/src/chaintypes.js~chaintypes",
     "variable/index.html#static-variable-ChainTypes",
-    "<span>ChainTypes</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/chain/src/ChainTypes.js</span>",
+    "<span>ChainTypes</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/chain/src/ChainTypes.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/storage/src/cloudstorage.js~cloudstorage",
+    "@r-squared/rsquared-js/lib/storage/src/cloudstorage.js~cloudstorage",
     "class/lib/storage/src/CloudStorage.js~CloudStorage.html",
-    "<span>CloudStorage</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/storage/src/CloudStorage.js</span>",
+    "<span>CloudStorage</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/storage/src/CloudStorage.js</span>",
     "class"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/ecc/src/ecsignature.js~ecsignature",
+    "@r-squared/rsquared-js/lib/ecc/src/ecsignature.js~ecsignature",
     "function/index.html#static-function-ECSignature",
-    "<span>ECSignature</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/ecc/src/ecsignature.js</span>",
+    "<span>ECSignature</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/ecc/src/ecsignature.js</span>",
     "function"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/error_with_cause.js~errorwithcause",
+    "@r-squared/rsquared-js/lib/serializer/src/error_with_cause.js~errorwithcause",
     "class/lib/serializer/src/error_with_cause.js~ErrorWithCause.html",
-    "<span>ErrorWithCause</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/error_with_cause.js</span>",
+    "<span>ErrorWithCause</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/error_with_cause.js</span>",
     "class"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/fastparser.js~fastparser",
+    "@r-squared/rsquared-js/lib/serializer/src/fastparser.js~fastparser",
     "class/lib/serializer/src/FastParser.js~FastParser.html",
-    "<span>FastParser</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/FastParser.js</span>",
+    "<span>FastParser</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/FastParser.js</span>",
     "class"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/ecc/src/hash.js~hmacsha256",
+    "@r-squared/rsquared-js/lib/ecc/src/hash.js~hmacsha256",
     "function/index.html#static-function-HmacSHA256",
-    "<span>HmacSHA256</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/ecc/src/hash.js</span>",
+    "<span>HmacSHA256</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/ecc/src/hash.js</span>",
     "function"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/storage/src/memoryadapter.js~memoryadapter",
+    "@r-squared/rsquared-js/lib/storage/src/memoryadapter.js~memoryadapter",
     "class/lib/storage/src/MemoryAdapter.js~MemoryAdapter.html",
-    "<span>MemoryAdapter</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/storage/src/MemoryAdapter.js</span>",
+    "<span>MemoryAdapter</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/storage/src/MemoryAdapter.js</span>",
     "class"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/chain/src/numberutils.js~numberutils",
+    "@r-squared/rsquared-js/lib/chain/src/numberutils.js~numberutils",
     "variable/index.html#static-variable-NumberUtils",
-    "<span>NumberUtils</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/chain/src/NumberUtils.js</span>",
+    "<span>NumberUtils</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/chain/src/NumberUtils.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/chain/src/objectid.js~objectid",
+    "@r-squared/rsquared-js/lib/chain/src/objectid.js~objectid",
     "class/lib/chain/src/ObjectId.js~ObjectId.html",
-    "<span>ObjectId</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/chain/src/ObjectId.js</span>",
+    "<span>ObjectId</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/chain/src/ObjectId.js</span>",
     "class"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/storage/src/personaldata.js~personaldata",
+    "@r-squared/rsquared-js/lib/storage/src/personaldata.js~personaldata",
     "class/lib/storage/src/PersonalData.js~PersonalData.html",
-    "<span>PersonalData</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/storage/src/PersonalData.js</span>",
+    "<span>PersonalData</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/storage/src/PersonalData.js</span>",
     "class"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/ecc/src/privatekey.js~privatekey",
+    "@r-squared/rsquared-js/lib/ecc/src/privatekey.js~privatekey",
     "class/lib/ecc/src/PrivateKey.js~PrivateKey.html",
-    "<span>PrivateKey</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/ecc/src/PrivateKey.js</span>",
+    "<span>PrivateKey</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/ecc/src/PrivateKey.js</span>",
     "class"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/ecc/src/publickey.js~publickey",
+    "@r-squared/rsquared-js/lib/ecc/src/publickey.js~publickey",
     "class/lib/ecc/src/PublicKey.js~PublicKey.html",
-    "<span>PublicKey</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/ecc/src/PublicKey.js</span>",
+    "<span>PublicKey</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/ecc/src/PublicKey.js</span>",
     "class"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/serializer.js~serializer",
+    "@r-squared/rsquared-js/lib/serializer/src/serializer.js~serializer",
     "class/lib/serializer/src/serializer.js~Serializer.html",
-    "<span>Serializer</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/serializer.js</span>",
+    "<span>Serializer</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/serializer.js</span>",
     "class"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/ecc/src/signature.js~signature",
+    "@r-squared/rsquared-js/lib/ecc/src/signature.js~signature",
     "class/lib/ecc/src/signature.js~Signature.html",
-    "<span>Signature</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/ecc/src/signature.js</span>",
+    "<span>Signature</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/ecc/src/signature.js</span>",
     "class"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/chain/src/transactionbuilder.js~transactionbuilder",
+    "@r-squared/rsquared-js/lib/chain/src/transactionbuilder.js~transactionbuilder",
     "class/lib/chain/src/TransactionBuilder.js~TransactionBuilder.html",
-    "<span>TransactionBuilder</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/chain/src/TransactionBuilder.js</span>",
+    "<span>TransactionBuilder</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/chain/src/TransactionBuilder.js</span>",
     "class"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/types.js~types",
+    "@r-squared/rsquared-js/lib/serializer/src/types.js~types",
     "variable/index.html#static-variable-Types",
-    "<span>Types</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/types.js</span>",
+    "<span>Types</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/types.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/serializervalidation.js~_my",
+    "@r-squared/rsquared-js/lib/serializer/src/serializervalidation.js~_my",
     "variable/index.html#static-variable-_my",
-    "<span>_my</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/SerializerValidation.js</span>",
+    "<span>_my</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/SerializerValidation.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/chain/src/accountlogin.js~accountlogin",
+    "@r-squared/rsquared-js/lib/chain/src/accountlogin.js~accountlogin",
     "variable/index.html#static-variable-accountLogin",
-    "<span>accountLogin</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/chain/src/AccountLogin.js</span>",
+    "<span>accountLogin</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/chain/src/AccountLogin.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~account_create",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~account_create",
     "variable/index.html#static-variable-account_create",
-    "<span>account_create</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>account_create</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~account_create_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~account_create_operation_fee_parameters",
     "variable/index.html#static-variable-account_create_operation_fee_parameters",
-    "<span>account_create_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>account_create_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~account_name_eq_lit_predicate",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~account_name_eq_lit_predicate",
     "variable/index.html#static-variable-account_name_eq_lit_predicate",
-    "<span>account_name_eq_lit_predicate</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>account_name_eq_lit_predicate</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~account_options",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~account_options",
     "variable/index.html#static-variable-account_options",
-    "<span>account_options</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>account_options</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~account_transfer",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~account_transfer",
     "variable/index.html#static-variable-account_transfer",
-    "<span>account_transfer</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>account_transfer</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~account_transfer_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~account_transfer_operation_fee_parameters",
     "variable/index.html#static-variable-account_transfer_operation_fee_parameters",
-    "<span>account_transfer_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>account_transfer_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~account_update",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~account_update",
     "variable/index.html#static-variable-account_update",
-    "<span>account_update</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>account_update</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~account_update_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~account_update_operation_fee_parameters",
     "variable/index.html#static-variable-account_update_operation_fee_parameters",
-    "<span>account_update_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>account_update_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~account_upgrade",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~account_upgrade",
     "variable/index.html#static-variable-account_upgrade",
-    "<span>account_upgrade</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>account_upgrade</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~account_upgrade_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~account_upgrade_operation_fee_parameters",
     "variable/index.html#static-variable-account_upgrade_operation_fee_parameters",
-    "<span>account_upgrade_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>account_upgrade_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~account_whitelist",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~account_whitelist",
     "variable/index.html#static-variable-account_whitelist",
-    "<span>account_whitelist</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>account_whitelist</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~account_whitelist_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~account_whitelist_operation_fee_parameters",
     "variable/index.html#static-variable-account_whitelist_operation_fee_parameters",
-    "<span>account_whitelist_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>account_whitelist_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~assert",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~assert",
     "variable/index.html#static-variable-assert",
-    "<span>assert</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>assert</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~assert_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~assert_operation_fee_parameters",
     "variable/index.html#static-variable-assert_operation_fee_parameters",
-    "<span>assert_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>assert_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~asset",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~asset",
     "variable/index.html#static-variable-asset",
-    "<span>asset</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>asset</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~asset_claim_fees",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~asset_claim_fees",
     "variable/index.html#static-variable-asset_claim_fees",
-    "<span>asset_claim_fees</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>asset_claim_fees</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~asset_claim_fees_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~asset_claim_fees_operation_fee_parameters",
     "variable/index.html#static-variable-asset_claim_fees_operation_fee_parameters",
-    "<span>asset_claim_fees_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>asset_claim_fees_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~asset_claim_pool",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~asset_claim_pool",
     "variable/index.html#static-variable-asset_claim_pool",
-    "<span>asset_claim_pool</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>asset_claim_pool</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~asset_claim_pool_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~asset_claim_pool_operation_fee_parameters",
     "variable/index.html#static-variable-asset_claim_pool_operation_fee_parameters",
-    "<span>asset_claim_pool_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>asset_claim_pool_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~asset_create",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~asset_create",
     "variable/index.html#static-variable-asset_create",
-    "<span>asset_create</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>asset_create</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~asset_create_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~asset_create_operation_fee_parameters",
     "variable/index.html#static-variable-asset_create_operation_fee_parameters",
-    "<span>asset_create_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>asset_create_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~asset_fund_fee_pool",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~asset_fund_fee_pool",
     "variable/index.html#static-variable-asset_fund_fee_pool",
-    "<span>asset_fund_fee_pool</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>asset_fund_fee_pool</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~asset_fund_fee_pool_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~asset_fund_fee_pool_operation_fee_parameters",
     "variable/index.html#static-variable-asset_fund_fee_pool_operation_fee_parameters",
-    "<span>asset_fund_fee_pool_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>asset_fund_fee_pool_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~asset_global_settle",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~asset_global_settle",
     "variable/index.html#static-variable-asset_global_settle",
-    "<span>asset_global_settle</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>asset_global_settle</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~asset_global_settle_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~asset_global_settle_operation_fee_parameters",
     "variable/index.html#static-variable-asset_global_settle_operation_fee_parameters",
-    "<span>asset_global_settle_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>asset_global_settle_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~asset_issue",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~asset_issue",
     "variable/index.html#static-variable-asset_issue",
-    "<span>asset_issue</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>asset_issue</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~asset_issue_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~asset_issue_operation_fee_parameters",
     "variable/index.html#static-variable-asset_issue_operation_fee_parameters",
-    "<span>asset_issue_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>asset_issue_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~asset_options",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~asset_options",
     "variable/index.html#static-variable-asset_options",
-    "<span>asset_options</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>asset_options</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~asset_publish_feed",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~asset_publish_feed",
     "variable/index.html#static-variable-asset_publish_feed",
-    "<span>asset_publish_feed</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>asset_publish_feed</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~asset_publish_feed_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~asset_publish_feed_operation_fee_parameters",
     "variable/index.html#static-variable-asset_publish_feed_operation_fee_parameters",
-    "<span>asset_publish_feed_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>asset_publish_feed_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~asset_reserve",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~asset_reserve",
     "variable/index.html#static-variable-asset_reserve",
-    "<span>asset_reserve</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>asset_reserve</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~asset_reserve_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~asset_reserve_operation_fee_parameters",
     "variable/index.html#static-variable-asset_reserve_operation_fee_parameters",
-    "<span>asset_reserve_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>asset_reserve_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~asset_settle",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~asset_settle",
     "variable/index.html#static-variable-asset_settle",
-    "<span>asset_settle</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>asset_settle</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~asset_settle_cancel",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~asset_settle_cancel",
     "variable/index.html#static-variable-asset_settle_cancel",
-    "<span>asset_settle_cancel</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>asset_settle_cancel</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~asset_settle_cancel_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~asset_settle_cancel_operation_fee_parameters",
     "variable/index.html#static-variable-asset_settle_cancel_operation_fee_parameters",
-    "<span>asset_settle_cancel_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>asset_settle_cancel_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~asset_settle_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~asset_settle_operation_fee_parameters",
     "variable/index.html#static-variable-asset_settle_operation_fee_parameters",
-    "<span>asset_settle_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>asset_settle_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~asset_symbol_eq_lit_predicate",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~asset_symbol_eq_lit_predicate",
     "variable/index.html#static-variable-asset_symbol_eq_lit_predicate",
-    "<span>asset_symbol_eq_lit_predicate</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>asset_symbol_eq_lit_predicate</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~asset_update",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~asset_update",
     "variable/index.html#static-variable-asset_update",
-    "<span>asset_update</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>asset_update</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~asset_update_bitasset",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~asset_update_bitasset",
     "variable/index.html#static-variable-asset_update_bitasset",
-    "<span>asset_update_bitasset</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>asset_update_bitasset</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~asset_update_bitasset_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~asset_update_bitasset_operation_fee_parameters",
     "variable/index.html#static-variable-asset_update_bitasset_operation_fee_parameters",
-    "<span>asset_update_bitasset_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>asset_update_bitasset_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~asset_update_feed_producers",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~asset_update_feed_producers",
     "variable/index.html#static-variable-asset_update_feed_producers",
-    "<span>asset_update_feed_producers</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>asset_update_feed_producers</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~asset_update_feed_producers_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~asset_update_feed_producers_operation_fee_parameters",
     "variable/index.html#static-variable-asset_update_feed_producers_operation_fee_parameters",
-    "<span>asset_update_feed_producers_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>asset_update_feed_producers_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~asset_update_issuer",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~asset_update_issuer",
     "variable/index.html#static-variable-asset_update_issuer",
-    "<span>asset_update_issuer</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>asset_update_issuer</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~asset_update_issuer_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~asset_update_issuer_operation_fee_parameters",
     "variable/index.html#static-variable-asset_update_issuer_operation_fee_parameters",
-    "<span>asset_update_issuer_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>asset_update_issuer_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~asset_update_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~asset_update_operation_fee_parameters",
     "variable/index.html#static-variable-asset_update_operation_fee_parameters",
-    "<span>asset_update_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>asset_update_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~authority",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~authority",
     "variable/index.html#static-variable-authority",
-    "<span>authority</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>authority</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~balance_claim",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~balance_claim",
     "variable/index.html#static-variable-balance_claim",
-    "<span>balance_claim</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>balance_claim</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~balance_claim_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~balance_claim_operation_fee_parameters",
     "variable/index.html#static-variable-balance_claim_operation_fee_parameters",
-    "<span>balance_claim_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>balance_claim_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~bitasset_options",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~bitasset_options",
     "variable/index.html#static-variable-bitasset_options",
-    "<span>bitasset_options</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>bitasset_options</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~blind_input",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~blind_input",
     "variable/index.html#static-variable-blind_input",
-    "<span>blind_input</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>blind_input</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~blind_output",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~blind_output",
     "variable/index.html#static-variable-blind_output",
-    "<span>blind_output</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>blind_output</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~blind_transfer",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~blind_transfer",
     "variable/index.html#static-variable-blind_transfer",
-    "<span>blind_transfer</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>blind_transfer</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~blind_transfer_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~blind_transfer_operation_fee_parameters",
     "variable/index.html#static-variable-blind_transfer_operation_fee_parameters",
-    "<span>blind_transfer_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>blind_transfer_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~block_header",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~block_header",
     "variable/index.html#static-variable-block_header",
-    "<span>block_header</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>block_header</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~block_id_predicate",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~block_id_predicate",
     "variable/index.html#static-variable-block_id_predicate",
-    "<span>block_id_predicate</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>block_id_predicate</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/ecc/src/ecdsa.js~calcpubkeyrecoveryparam",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~burn_worker_initializer",
+    "variable/index.html#static-variable-burn_worker_initializer",
+    "<span>burn_worker_initializer</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
+    "variable"
+  ],
+  [
+    "@r-squared/rsquared-js/lib/ecc/src/ecdsa.js~calcpubkeyrecoveryparam",
     "function/index.html#static-function-calcPubKeyRecoveryParam",
-    "<span>calcPubKeyRecoveryParam</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/ecc/src/ecdsa.js</span>",
+    "<span>calcPubKeyRecoveryParam</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/ecc/src/ecdsa.js</span>",
     "function"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~cdd_vesting_policy_initializer",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~call_order_update",
+    "variable/index.html#static-variable-call_order_update",
+    "<span>call_order_update</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
+    "variable"
+  ],
+  [
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~call_order_update_operation_fee_parameters",
+    "variable/index.html#static-variable-call_order_update_operation_fee_parameters",
+    "<span>call_order_update_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
+    "variable"
+  ],
+  [
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~cdd_vesting_policy_initializer",
     "variable/index.html#static-variable-cdd_vesting_policy_initializer",
-    "<span>cdd_vesting_policy_initializer</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>cdd_vesting_policy_initializer</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/chain/src/chainvalidation.js~chainvalidation",
+    "@r-squared/rsquared-js/lib/chain/src/chainvalidation.js~chainvalidation",
     "variable/index.html#static-variable-chainValidation",
-    "<span>chainValidation</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/chain/src/ChainValidation.js</span>",
+    "<span>chainValidation</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/chain/src/ChainValidation.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~chain_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~chain_parameters",
     "variable/index.html#static-variable-chain_parameters",
-    "<span>chain_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>chain_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/chain/src/chainstore.js~chain_store",
+    "@r-squared/rsquared-js/lib/chain/src/chainstore.js~chain_store",
     "variable/index.html#static-variable-chain_store",
-    "<span>chain_store</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/chain/src/ChainStore.js</span>",
+    "<span>chain_store</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/chain/src/ChainStore.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~commit_create",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~commit_create",
     "variable/index.html#static-variable-commit_create",
-    "<span>commit_create</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>commit_create</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~commit_create_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~commit_create_operation_fee_parameters",
     "variable/index.html#static-variable-commit_create_operation_fee_parameters",
-    "<span>commit_create_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>commit_create_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~commit_create_v2",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~commit_create_v2",
     "variable/index.html#static-variable-commit_create_v2",
-    "<span>commit_create_v2</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>commit_create_v2</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~commit_create_v2_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~commit_create_v2_operation_fee_parameters",
     "variable/index.html#static-variable-commit_create_v2_operation_fee_parameters",
-    "<span>commit_create_v2_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>commit_create_v2_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~commit_create_v3",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~commit_create_v3",
     "variable/index.html#static-variable-commit_create_v3",
-    "<span>commit_create_v3</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>commit_create_v3</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~commit_create_v3_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~commit_create_v3_operation_fee_parameters",
     "variable/index.html#static-variable-commit_create_v3_operation_fee_parameters",
-    "<span>commit_create_v3_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>commit_create_v3_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~committee_member_create",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~committee_member_create",
     "variable/index.html#static-variable-committee_member_create",
-    "<span>committee_member_create</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>committee_member_create</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~committee_member_create_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~committee_member_create_operation_fee_parameters",
     "variable/index.html#static-variable-committee_member_create_operation_fee_parameters",
-    "<span>committee_member_create_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>committee_member_create_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~committee_member_update",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~committee_member_update",
     "variable/index.html#static-variable-committee_member_update",
-    "<span>committee_member_update</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>committee_member_update</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~committee_member_update_global_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~committee_member_update_global_parameters",
     "variable/index.html#static-variable-committee_member_update_global_parameters",
-    "<span>committee_member_update_global_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>committee_member_update_global_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~committee_member_update_global_parameters_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~committee_member_update_global_parameters_operation_fee_parameters",
     "variable/index.html#static-variable-committee_member_update_global_parameters_operation_fee_parameters",
-    "<span>committee_member_update_global_parameters_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>committee_member_update_global_parameters_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~committee_member_update_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~committee_member_update_operation_fee_parameters",
     "variable/index.html#static-variable-committee_member_update_operation_fee_parameters",
-    "<span>committee_member_update_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>committee_member_update_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~content_card_create",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~content_card_create",
     "variable/index.html#static-variable-content_card_create",
-    "<span>content_card_create</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>content_card_create</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~content_card_create_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~content_card_create_operation_fee_parameters",
     "variable/index.html#static-variable-content_card_create_operation_fee_parameters",
-    "<span>content_card_create_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>content_card_create_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~content_card_remove",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~content_card_remove",
     "variable/index.html#static-variable-content_card_remove",
-    "<span>content_card_remove</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>content_card_remove</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~content_card_remove_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~content_card_remove_operation_fee_parameters",
     "variable/index.html#static-variable-content_card_remove_operation_fee_parameters",
-    "<span>content_card_remove_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>content_card_remove_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~content_card_update",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~content_card_update",
     "variable/index.html#static-variable-content_card_update",
-    "<span>content_card_update</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>content_card_update</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~content_card_update_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~content_card_update_operation_fee_parameters",
     "variable/index.html#static-variable-content_card_update_operation_fee_parameters",
-    "<span>content_card_update_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>content_card_update_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~content_vote_create",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~content_card_v2_create",
+    "variable/index.html#static-variable-content_card_v2_create",
+    "<span>content_card_v2_create</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
+    "variable"
+  ],
+  [
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~content_card_v2_create_operation_fee_parameters",
+    "variable/index.html#static-variable-content_card_v2_create_operation_fee_parameters",
+    "<span>content_card_v2_create_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
+    "variable"
+  ],
+  [
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~content_card_v2_remove",
+    "variable/index.html#static-variable-content_card_v2_remove",
+    "<span>content_card_v2_remove</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
+    "variable"
+  ],
+  [
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~content_card_v2_remove_operation_fee_parameters",
+    "variable/index.html#static-variable-content_card_v2_remove_operation_fee_parameters",
+    "<span>content_card_v2_remove_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
+    "variable"
+  ],
+  [
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~content_card_v2_update",
+    "variable/index.html#static-variable-content_card_v2_update",
+    "<span>content_card_v2_update</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
+    "variable"
+  ],
+  [
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~content_card_v2_update_operation_fee_parameters",
+    "variable/index.html#static-variable-content_card_v2_update_operation_fee_parameters",
+    "<span>content_card_v2_update_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
+    "variable"
+  ],
+  [
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~content_vote_create",
     "variable/index.html#static-variable-content_vote_create",
-    "<span>content_vote_create</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>content_vote_create</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~content_vote_create_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~content_vote_create_operation_fee_parameters",
     "variable/index.html#static-variable-content_vote_create_operation_fee_parameters",
-    "<span>content_vote_create_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>content_vote_create_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~content_vote_remove",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~content_vote_remove",
     "variable/index.html#static-variable-content_vote_remove",
-    "<span>content_vote_remove</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>content_vote_remove</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~content_vote_remove_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~content_vote_remove_operation_fee_parameters",
     "variable/index.html#static-variable-content_vote_remove_operation_fee_parameters",
-    "<span>content_vote_remove_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>content_vote_remove_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/convert.js~convert",
+    "@r-squared/rsquared-js/lib/serializer/src/convert.js~convert",
     "function/index.html#static-function-convert",
-    "<span>convert</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/convert.js</span>",
+    "<span>convert</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/convert.js</span>",
     "function"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/storage/src/crypto.js~crypto_content_transform",
+    "@r-squared/rsquared-js/lib/storage/src/crypto.js~crypto_content_transform",
     "function/index.html#static-function-crypto_content_transform",
-    "<span>crypto_content_transform</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/storage/src/crypto.js</span>",
+    "<span>crypto_content_transform</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/storage/src/crypto.js</span>",
     "function"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~custom",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~custom",
     "variable/index.html#static-variable-custom",
-    "<span>custom</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>custom</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~custom_authority_create",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~custom_authority_create",
     "variable/index.html#static-variable-custom_authority_create",
-    "<span>custom_authority_create</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>custom_authority_create</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~custom_authority_create_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~custom_authority_create_operation_fee_parameters",
     "variable/index.html#static-variable-custom_authority_create_operation_fee_parameters",
-    "<span>custom_authority_create_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>custom_authority_create_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~custom_authority_delete",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~custom_authority_delete",
     "variable/index.html#static-variable-custom_authority_delete",
-    "<span>custom_authority_delete</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>custom_authority_delete</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~custom_authority_delete_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~custom_authority_delete_operation_fee_parameters",
     "variable/index.html#static-variable-custom_authority_delete_operation_fee_parameters",
-    "<span>custom_authority_delete_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>custom_authority_delete_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~custom_authority_update",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~custom_authority_update",
     "variable/index.html#static-variable-custom_authority_update",
-    "<span>custom_authority_update</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>custom_authority_update</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~custom_authority_update_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~custom_authority_update_operation_fee_parameters",
     "variable/index.html#static-variable-custom_authority_update_operation_fee_parameters",
-    "<span>custom_authority_update_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>custom_authority_update_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~custom_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~custom_operation_fee_parameters",
     "variable/index.html#static-variable-custom_operation_fee_parameters",
-    "<span>custom_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>custom_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/storage/src/crypto.js~decrypt_buffer",
+    "@r-squared/rsquared-js/lib/storage/src/crypto.js~decrypt_buffer",
     "function/index.html#static-function-decrypt_buffer",
-    "<span>decrypt_buffer</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/storage/src/crypto.js</span>",
+    "<span>decrypt_buffer</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/storage/src/crypto.js</span>",
     "function"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/storage/src/crypto.js~decrypt_content",
+    "@r-squared/rsquared-js/lib/storage/src/crypto.js~decrypt_content",
     "function/index.html#static-function-decrypt_content",
-    "<span>decrypt_content</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/storage/src/crypto.js</span>",
+    "<span>decrypt_content</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/storage/src/crypto.js</span>",
     "function"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/storage/src/crypto.js~decrypt_content_str",
+    "@r-squared/rsquared-js/lib/storage/src/crypto.js~decrypt_content_str",
     "function/index.html#static-function-decrypt_content_str",
-    "<span>decrypt_content_str</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/storage/src/crypto.js</span>",
+    "<span>decrypt_content_str</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/storage/src/crypto.js</span>",
     "function"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/storage/src/crypto.js~decrypt_object",
+    "@r-squared/rsquared-js/lib/storage/src/crypto.js~decrypt_object",
     "function/index.html#static-function-decrypt_object",
-    "<span>decrypt_object</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/storage/src/crypto.js</span>",
+    "<span>decrypt_object</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/storage/src/crypto.js</span>",
     "function"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/ecc/src/ecdsa.js~deterministicgeneratek",
+    "@r-squared/rsquared-js/lib/ecc/src/ecdsa.js~deterministicgeneratek",
     "function/index.html#static-function-deterministicGenerateK",
-    "<span>deterministicGenerateK</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/ecc/src/ecdsa.js</span>",
+    "<span>deterministicGenerateK</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/ecc/src/ecdsa.js</span>",
     "function"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/chain/src/emitterinstance.js~emitter",
+    "@r-squared/rsquared-js/lib/chain/src/emitterinstance.js~emitter",
     "function/index.html#static-function-emitter",
-    "<span>emitter</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/chain/src/EmitterInstance.js</span>",
+    "<span>emitter</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/chain/src/EmitterInstance.js</span>",
     "function"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/storage/src/crypto.js~encrypt_buffer",
+    "@r-squared/rsquared-js/lib/storage/src/crypto.js~encrypt_buffer",
     "function/index.html#static-function-encrypt_buffer",
-    "<span>encrypt_buffer</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/storage/src/crypto.js</span>",
+    "<span>encrypt_buffer</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/storage/src/crypto.js</span>",
     "function"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/storage/src/crypto.js~encrypt_content",
+    "@r-squared/rsquared-js/lib/storage/src/crypto.js~encrypt_content",
     "function/index.html#static-function-encrypt_content",
-    "<span>encrypt_content</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/storage/src/crypto.js</span>",
+    "<span>encrypt_content</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/storage/src/crypto.js</span>",
     "function"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/storage/src/crypto.js~encrypt_content_str",
+    "@r-squared/rsquared-js/lib/storage/src/crypto.js~encrypt_content_str",
     "function/index.html#static-function-encrypt_content_str",
-    "<span>encrypt_content_str</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/storage/src/crypto.js</span>",
+    "<span>encrypt_content_str</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/storage/src/crypto.js</span>",
     "function"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/storage/src/crypto.js~encrypt_object",
+    "@r-squared/rsquared-js/lib/storage/src/crypto.js~encrypt_object",
     "function/index.html#static-function-encrypt_object",
-    "<span>encrypt_object</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/storage/src/crypto.js</span>",
+    "<span>encrypt_object</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/storage/src/crypto.js</span>",
     "function"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/ecc/src/enforce_types.js~enforce",
+    "@r-squared/rsquared-js/lib/ecc/src/enforce_types.js~enforce",
     "function/index.html#static-function-enforce",
-    "<span>enforce</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/ecc/src/enforce_types.js</span>",
+    "<span>enforce</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/ecc/src/enforce_types.js</span>",
     "function"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~fba_distribute",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~fba_distribute",
     "variable/index.html#static-variable-fba_distribute",
-    "<span>fba_distribute</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>fba_distribute</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~fba_distribute_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~fba_distribute_operation_fee_parameters",
     "variable/index.html#static-variable-fba_distribute_operation_fee_parameters",
-    "<span>fba_distribute_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>fba_distribute_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~fee_schedule",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~fee_schedule",
     "variable/index.html#static-variable-fee_schedule",
-    "<span>fee_schedule</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>fee_schedule</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/chain/src/state.js~get",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~fill_order",
+    "variable/index.html#static-variable-fill_order",
+    "<span>fill_order</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
+    "variable"
+  ],
+  [
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~fill_order_operation_fee_parameters",
+    "variable/index.html#static-variable-fill_order_operation_fee_parameters",
+    "<span>fill_order_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
+    "variable"
+  ],
+  [
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~generic_exchange_operation_result",
+    "variable/index.html#static-variable-generic_exchange_operation_result",
+    "<span>generic_exchange_operation_result</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
+    "variable"
+  ],
+  [
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~generic_operation_result",
+    "variable/index.html#static-variable-generic_operation_result",
+    "<span>generic_operation_result</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
+    "variable"
+  ],
+  [
+    "@r-squared/rsquared-js/lib/chain/src/state.js~get",
     "function/index.html#static-function-get",
-    "<span>get</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/chain/src/state.js</span>",
+    "<span>get</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/chain/src/state.js</span>",
     "function"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/chain/src/transactionhelper.js~helper",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~graphene_custom_operations_account_storage_map",
+    "variable/index.html#static-variable-graphene_custom_operations_account_storage_map",
+    "<span>graphene_custom_operations_account_storage_map</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
+    "variable"
+  ],
+  [
+    "@r-squared/rsquared-js/lib/chain/src/transactionhelper.js~helper",
     "variable/index.html#static-variable-helper",
-    "<span>helper</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/chain/src/TransactionHelper.js</span>",
+    "<span>helper</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/chain/src/TransactionHelper.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/ecc/src/keyutils.js~key",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~htlc_create",
+    "variable/index.html#static-variable-htlc_create",
+    "<span>htlc_create</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
+    "variable"
+  ],
+  [
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~htlc_create_operation_fee_parameters",
+    "variable/index.html#static-variable-htlc_create_operation_fee_parameters",
+    "<span>htlc_create_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
+    "variable"
+  ],
+  [
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~htlc_extend",
+    "variable/index.html#static-variable-htlc_extend",
+    "<span>htlc_extend</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
+    "variable"
+  ],
+  [
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~htlc_extend_operation_fee_parameters",
+    "variable/index.html#static-variable-htlc_extend_operation_fee_parameters",
+    "<span>htlc_extend_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
+    "variable"
+  ],
+  [
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~htlc_redeem",
+    "variable/index.html#static-variable-htlc_redeem",
+    "<span>htlc_redeem</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
+    "variable"
+  ],
+  [
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~htlc_redeem_operation_fee_parameters",
+    "variable/index.html#static-variable-htlc_redeem_operation_fee_parameters",
+    "<span>htlc_redeem_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
+    "variable"
+  ],
+  [
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~htlc_redeemed",
+    "variable/index.html#static-variable-htlc_redeemed",
+    "<span>htlc_redeemed</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
+    "variable"
+  ],
+  [
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~htlc_redeemed_operation_fee_parameters",
+    "variable/index.html#static-variable-htlc_redeemed_operation_fee_parameters",
+    "<span>htlc_redeemed_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
+    "variable"
+  ],
+  [
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~htlc_refund",
+    "variable/index.html#static-variable-htlc_refund",
+    "<span>htlc_refund</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
+    "variable"
+  ],
+  [
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~htlc_refund_operation_fee_parameters",
+    "variable/index.html#static-variable-htlc_refund_operation_fee_parameters",
+    "<span>htlc_refund_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
+    "variable"
+  ],
+  [
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~instant_vesting_policy_initializer",
+    "variable/index.html#static-variable-instant_vesting_policy_initializer",
+    "<span>instant_vesting_policy_initializer</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
+    "variable"
+  ],
+  [
+    "@r-squared/rsquared-js/lib/ecc/src/keyutils.js~key",
     "variable/index.html#static-variable-key",
-    "<span>key</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/ecc/src/KeyUtils.js</span>",
+    "<span>key</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/ecc/src/KeyUtils.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~linear_vesting_policy_initializer",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~limit_order_cancel",
+    "variable/index.html#static-variable-limit_order_cancel",
+    "<span>limit_order_cancel</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
+    "variable"
+  ],
+  [
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~limit_order_cancel_operation_fee_parameters",
+    "variable/index.html#static-variable-limit_order_cancel_operation_fee_parameters",
+    "<span>limit_order_cancel_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
+    "variable"
+  ],
+  [
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~limit_order_create",
+    "variable/index.html#static-variable-limit_order_create",
+    "<span>limit_order_create</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
+    "variable"
+  ],
+  [
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~limit_order_create_operation_fee_parameters",
+    "variable/index.html#static-variable-limit_order_create_operation_fee_parameters",
+    "<span>limit_order_create_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
+    "variable"
+  ],
+  [
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~linear_vesting_policy_initializer",
     "variable/index.html#static-variable-linear_vesting_policy_initializer",
-    "<span>linear_vesting_policy_initializer</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>linear_vesting_policy_initializer</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/storage/src/crypto.js~make_content_key",
+    "@r-squared/rsquared-js/lib/storage/src/crypto.js~make_content_key",
     "function/index.html#static-function-make_content_key",
-    "<span>make_content_key</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/storage/src/crypto.js</span>",
+    "<span>make_content_key</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/storage/src/crypto.js</span>",
     "function"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/storage/src/crypto.js~make_content_key_noencrypt",
+    "@r-squared/rsquared-js/lib/storage/src/crypto.js~make_content_key_noencrypt",
     "function/index.html#static-function-make_content_key_noencrypt",
-    "<span>make_content_key_noencrypt</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/storage/src/crypto.js</span>",
+    "<span>make_content_key_noencrypt</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/storage/src/crypto.js</span>",
     "function"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~memo_data",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~memo_data",
     "variable/index.html#static-variable-memo_data",
-    "<span>memo_data</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>memo_data</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/ecc/src/brainkey.js~normalize",
+    "@r-squared/rsquared-js/lib/ecc/src/brainkey.js~normalize",
     "function/index.html#static-function-normalize",
-    "<span>normalize</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/ecc/src/BrainKey.js</span>",
+    "<span>normalize</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/ecc/src/BrainKey.js</span>",
     "function"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~op_wrapper",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~op_wrapper",
     "variable/index.html#static-variable-op_wrapper",
-    "<span>op_wrapper</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>op_wrapper</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~operation",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~operation",
     "variable/index.html#static-variable-operation",
-    "<span>operation</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>operation</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~override_transfer",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~override_transfer",
     "variable/index.html#static-variable-override_transfer",
-    "<span>override_transfer</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>override_transfer</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~override_transfer_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~override_transfer_operation_fee_parameters",
     "variable/index.html#static-variable-override_transfer_operation_fee_parameters",
-    "<span>override_transfer_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>override_transfer_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~permission_create",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~permission_create",
     "variable/index.html#static-variable-permission_create",
-    "<span>permission_create</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>permission_create</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~permission_create_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~permission_create_operation_fee_parameters",
     "variable/index.html#static-variable-permission_create_operation_fee_parameters",
-    "<span>permission_create_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>permission_create_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~permission_remove",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~permission_remove",
     "variable/index.html#static-variable-permission_remove",
-    "<span>permission_remove</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>permission_remove</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~permission_remove_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~permission_remove_operation_fee_parameters",
     "variable/index.html#static-variable-permission_remove_operation_fee_parameters",
-    "<span>permission_remove_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>permission_remove_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~personal_data_create",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~personal_data_create",
     "variable/index.html#static-variable-personal_data_create",
-    "<span>personal_data_create</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>personal_data_create</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~personal_data_create_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~personal_data_create_operation_fee_parameters",
     "variable/index.html#static-variable-personal_data_create_operation_fee_parameters",
-    "<span>personal_data_create_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>personal_data_create_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~personal_data_remove",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~personal_data_remove",
     "variable/index.html#static-variable-personal_data_remove",
-    "<span>personal_data_remove</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>personal_data_remove</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~personal_data_remove_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~personal_data_remove_operation_fee_parameters",
     "variable/index.html#static-variable-personal_data_remove_operation_fee_parameters",
-    "<span>personal_data_remove_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>personal_data_remove_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~price",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~personal_data_v2_create",
+    "variable/index.html#static-variable-personal_data_v2_create",
+    "<span>personal_data_v2_create</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
+    "variable"
+  ],
+  [
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~personal_data_v2_create_operation_fee_parameters",
+    "variable/index.html#static-variable-personal_data_v2_create_operation_fee_parameters",
+    "<span>personal_data_v2_create_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
+    "variable"
+  ],
+  [
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~personal_data_v2_remove",
+    "variable/index.html#static-variable-personal_data_v2_remove",
+    "<span>personal_data_v2_remove</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
+    "variable"
+  ],
+  [
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~personal_data_v2_remove_operation_fee_parameters",
+    "variable/index.html#static-variable-personal_data_v2_remove_operation_fee_parameters",
+    "<span>personal_data_v2_remove_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
+    "variable"
+  ],
+  [
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~price",
     "variable/index.html#static-variable-price",
-    "<span>price</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>price</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~price_feed",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~price_feed",
     "variable/index.html#static-variable-price_feed",
-    "<span>price_feed</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>price_feed</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~processed_transaction",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~processed_transaction",
     "variable/index.html#static-variable-processed_transaction",
-    "<span>processed_transaction</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>processed_transaction</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~proposal_create",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~proposal_create",
     "variable/index.html#static-variable-proposal_create",
-    "<span>proposal_create</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>proposal_create</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~proposal_create_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~proposal_create_operation_fee_parameters",
     "variable/index.html#static-variable-proposal_create_operation_fee_parameters",
-    "<span>proposal_create_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>proposal_create_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~proposal_delete",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~proposal_delete",
     "variable/index.html#static-variable-proposal_delete",
-    "<span>proposal_delete</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>proposal_delete</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~proposal_delete_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~proposal_delete_operation_fee_parameters",
     "variable/index.html#static-variable-proposal_delete_operation_fee_parameters",
-    "<span>proposal_delete_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>proposal_delete_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~proposal_update",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~proposal_update",
     "variable/index.html#static-variable-proposal_update",
-    "<span>proposal_update</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>proposal_update</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~proposal_update_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~proposal_update_operation_fee_parameters",
     "variable/index.html#static-variable-proposal_update_operation_fee_parameters",
-    "<span>proposal_update_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>proposal_update_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/ecc/src/ecdsa.js~recoverpubkey",
+    "@r-squared/rsquared-js/lib/ecc/src/ecdsa.js~recoverpubkey",
     "function/index.html#static-function-recoverPubKey",
-    "<span>recoverPubKey</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/ecc/src/ecdsa.js</span>",
+    "<span>recoverPubKey</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/ecc/src/ecdsa.js</span>",
     "function"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~restriction",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~refund_worker_initializer",
+    "variable/index.html#static-variable-refund_worker_initializer",
+    "<span>refund_worker_initializer</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
+    "variable"
+  ],
+  [
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~restriction",
     "variable/index.html#static-variable-restriction",
-    "<span>restriction</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>restriction</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~reveal_create",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~reveal_create",
     "variable/index.html#static-variable-reveal_create",
-    "<span>reveal_create</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>reveal_create</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~reveal_create_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~reveal_create_operation_fee_parameters",
     "variable/index.html#static-variable-reveal_create_operation_fee_parameters",
-    "<span>reveal_create_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>reveal_create_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~reveal_create_v2",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~reveal_create_v2",
     "variable/index.html#static-variable-reveal_create_v2",
-    "<span>reveal_create_v2</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>reveal_create_v2</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~reveal_create_v2_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~reveal_create_v2_operation_fee_parameters",
     "variable/index.html#static-variable-reveal_create_v2_operation_fee_parameters",
-    "<span>reveal_create_v2_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>reveal_create_v2_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~reveal_create_v3",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~reveal_create_v3",
     "variable/index.html#static-variable-reveal_create_v3",
-    "<span>reveal_create_v3</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>reveal_create_v3</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~reveal_create_v3_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~reveal_create_v3_operation_fee_parameters",
     "variable/index.html#static-variable-reveal_create_v3_operation_fee_parameters",
-    "<span>reveal_create_v3_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>reveal_create_v3_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/ecc/src/hash.js~ripemd160",
+    "@r-squared/rsquared-js/lib/ecc/src/hash.js~ripemd160",
     "function/index.html#static-function-ripemd160",
-    "<span>ripemd160</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/ecc/src/hash.js</span>",
+    "<span>ripemd160</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/ecc/src/hash.js</span>",
     "function"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/chain/src/state.js~set",
+    "@r-squared/rsquared-js/lib/chain/src/state.js~set",
     "function/index.html#static-function-set",
-    "<span>set</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/chain/src/state.js</span>",
+    "<span>set</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/chain/src/state.js</span>",
     "function"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/ecc/src/hash.js~sha1",
+    "@r-squared/rsquared-js/lib/ecc/src/hash.js~sha1",
     "function/index.html#static-function-sha1",
-    "<span>sha1</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/ecc/src/hash.js</span>",
+    "<span>sha1</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/ecc/src/hash.js</span>",
     "function"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/ecc/src/hash.js~sha256",
+    "@r-squared/rsquared-js/lib/ecc/src/hash.js~sha256",
     "function/index.html#static-function-sha256",
-    "<span>sha256</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/ecc/src/hash.js</span>",
+    "<span>sha256</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/ecc/src/hash.js</span>",
     "function"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/ecc/src/hash.js~sha512",
+    "@r-squared/rsquared-js/lib/ecc/src/hash.js~sha512",
     "function/index.html#static-function-sha512",
-    "<span>sha512</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/ecc/src/hash.js</span>",
+    "<span>sha512</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/ecc/src/hash.js</span>",
     "function"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/ecc/src/ecdsa.js~sign",
+    "@r-squared/rsquared-js/lib/ecc/src/ecdsa.js~sign",
     "function/index.html#static-function-sign",
-    "<span>sign</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/ecc/src/ecdsa.js</span>",
+    "<span>sign</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/ecc/src/ecdsa.js</span>",
     "function"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~signed_block",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~signed_block",
     "variable/index.html#static-variable-signed_block",
-    "<span>signed_block</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>signed_block</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~signed_block_header",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~signed_block_header",
     "variable/index.html#static-variable-signed_block_header",
-    "<span>signed_block_header</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>signed_block_header</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~signed_transaction",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~signed_transaction",
     "variable/index.html#static-variable-signed_transaction",
-    "<span>signed_transaction</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>signed_transaction</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~stealth_confirmation",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~stealth_confirmation",
     "variable/index.html#static-variable-stealth_confirmation",
-    "<span>stealth_confirmation</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>stealth_confirmation</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~stealth_memo_data",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~stealth_memo_data",
     "variable/index.html#static-variable-stealth_memo_data",
-    "<span>stealth_memo_data</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>stealth_memo_data</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/template.js~template",
+    "@r-squared/rsquared-js/lib/serializer/src/template.js~template",
     "function/index.html#static-function-template",
-    "<span>template</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/template.js</span>",
+    "<span>template</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/template.js</span>",
     "function"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~ticket_create",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~ticket_create",
     "variable/index.html#static-variable-ticket_create",
-    "<span>ticket_create</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>ticket_create</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~ticket_create_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~ticket_create_operation_fee_parameters",
     "variable/index.html#static-variable-ticket_create_operation_fee_parameters",
-    "<span>ticket_create_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>ticket_create_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~ticket_update",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~ticket_update",
     "variable/index.html#static-variable-ticket_update",
-    "<span>ticket_update</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>ticket_update</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~ticket_update_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~ticket_update_operation_fee_parameters",
     "variable/index.html#static-variable-ticket_update_operation_fee_parameters",
-    "<span>ticket_update_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>ticket_update_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~transaction",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~transaction",
     "variable/index.html#static-variable-transaction",
-    "<span>transaction</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>transaction</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~transfer",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~transfer",
     "variable/index.html#static-variable-transfer",
-    "<span>transfer</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>transfer</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~transfer_from_blind",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~transfer_from_blind",
     "variable/index.html#static-variable-transfer_from_blind",
-    "<span>transfer_from_blind</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>transfer_from_blind</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~transfer_from_blind_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~transfer_from_blind_operation_fee_parameters",
     "variable/index.html#static-variable-transfer_from_blind_operation_fee_parameters",
-    "<span>transfer_from_blind_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>transfer_from_blind_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~transfer_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~transfer_operation_fee_parameters",
     "variable/index.html#static-variable-transfer_operation_fee_parameters",
-    "<span>transfer_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>transfer_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~transfer_to_blind",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~transfer_to_blind",
     "variable/index.html#static-variable-transfer_to_blind",
-    "<span>transfer_to_blind</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>transfer_to_blind</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~transfer_to_blind_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~transfer_to_blind_operation_fee_parameters",
     "variable/index.html#static-variable-transfer_to_blind_operation_fee_parameters",
-    "<span>transfer_to_blind_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>transfer_to_blind_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/ecc/src/ecdsa.js~verify",
+    "@r-squared/rsquared-js/lib/ecc/src/ecdsa.js~verify",
     "function/index.html#static-function-verify",
-    "<span>verify</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/ecc/src/ecdsa.js</span>",
+    "<span>verify</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/ecc/src/ecdsa.js</span>",
     "function"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/ecc/src/ecdsa.js~verifyraw",
+    "@r-squared/rsquared-js/lib/ecc/src/ecdsa.js~verifyraw",
     "function/index.html#static-function-verifyRaw",
-    "<span>verifyRaw</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/ecc/src/ecdsa.js</span>",
+    "<span>verifyRaw</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/ecc/src/ecdsa.js</span>",
     "function"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~vesting_balance_create",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~vesting_balance_create",
     "variable/index.html#static-variable-vesting_balance_create",
-    "<span>vesting_balance_create</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>vesting_balance_create</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~vesting_balance_create_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~vesting_balance_create_operation_fee_parameters",
     "variable/index.html#static-variable-vesting_balance_create_operation_fee_parameters",
-    "<span>vesting_balance_create_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>vesting_balance_create_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~vesting_balance_withdraw",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~vesting_balance_withdraw",
     "variable/index.html#static-variable-vesting_balance_withdraw",
-    "<span>vesting_balance_withdraw</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>vesting_balance_withdraw</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~vesting_balance_withdraw_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~vesting_balance_withdraw_operation_fee_parameters",
     "variable/index.html#static-variable-vesting_balance_withdraw_operation_fee_parameters",
-    "<span>vesting_balance_withdraw_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>vesting_balance_withdraw_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~void_result",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~vesting_balance_worker_initializer",
+    "variable/index.html#static-variable-vesting_balance_worker_initializer",
+    "<span>vesting_balance_worker_initializer</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
+    "variable"
+  ],
+  [
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~void_result",
     "variable/index.html#static-variable-void_result",
-    "<span>void_result</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>void_result</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~vote_counter_update",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~vote_counter_update",
     "variable/index.html#static-variable-vote_counter_update",
-    "<span>vote_counter_update</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>vote_counter_update</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~vote_counter_update_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~vote_counter_update_operation_fee_parameters",
     "variable/index.html#static-variable-vote_counter_update_operation_fee_parameters",
-    "<span>vote_counter_update_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>vote_counter_update_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~withdraw_permission_claim",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~withdraw_permission_claim",
     "variable/index.html#static-variable-withdraw_permission_claim",
-    "<span>withdraw_permission_claim</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>withdraw_permission_claim</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~withdraw_permission_claim_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~withdraw_permission_claim_operation_fee_parameters",
     "variable/index.html#static-variable-withdraw_permission_claim_operation_fee_parameters",
-    "<span>withdraw_permission_claim_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>withdraw_permission_claim_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~withdraw_permission_create",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~withdraw_permission_create",
     "variable/index.html#static-variable-withdraw_permission_create",
-    "<span>withdraw_permission_create</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>withdraw_permission_create</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~withdraw_permission_create_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~withdraw_permission_create_operation_fee_parameters",
     "variable/index.html#static-variable-withdraw_permission_create_operation_fee_parameters",
-    "<span>withdraw_permission_create_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>withdraw_permission_create_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~withdraw_permission_delete",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~withdraw_permission_delete",
     "variable/index.html#static-variable-withdraw_permission_delete",
-    "<span>withdraw_permission_delete</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>withdraw_permission_delete</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~withdraw_permission_delete_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~withdraw_permission_delete_operation_fee_parameters",
     "variable/index.html#static-variable-withdraw_permission_delete_operation_fee_parameters",
-    "<span>withdraw_permission_delete_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>withdraw_permission_delete_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~withdraw_permission_update",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~withdraw_permission_update",
     "variable/index.html#static-variable-withdraw_permission_update",
-    "<span>withdraw_permission_update</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>withdraw_permission_update</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~withdraw_permission_update_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~withdraw_permission_update_operation_fee_parameters",
     "variable/index.html#static-variable-withdraw_permission_update_operation_fee_parameters",
-    "<span>withdraw_permission_update_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>withdraw_permission_update_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~witness_create",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~witness_create",
     "variable/index.html#static-variable-witness_create",
-    "<span>witness_create</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>witness_create</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~witness_create_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~witness_create_operation_fee_parameters",
     "variable/index.html#static-variable-witness_create_operation_fee_parameters",
-    "<span>witness_create_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>witness_create_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~witness_update",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~witness_update",
     "variable/index.html#static-variable-witness_update",
-    "<span>witness_update</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>witness_update</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
-    "@revolutionpopuli/revpopjs/lib/serializer/src/operations.js~witness_update_operation_fee_parameters",
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~witness_update_operation_fee_parameters",
     "variable/index.html#static-variable-witness_update_operation_fee_parameters",
-    "<span>witness_update_operation_fee_parameters</span> <span class=\"search-result-import-path\">@revolutionpopuli/revpopjs/lib/serializer/src/operations.js</span>",
+    "<span>witness_update_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
+    "variable"
+  ],
+  [
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~worker_create",
+    "variable/index.html#static-variable-worker_create",
+    "<span>worker_create</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
+    "variable"
+  ],
+  [
+    "@r-squared/rsquared-js/lib/serializer/src/operations.js~worker_create_operation_fee_parameters",
+    "variable/index.html#static-variable-worker_create_operation_fee_parameters",
+    "<span>worker_create_operation_fee_parameters</span> <span class=\"search-result-import-path\">@r-squared/rsquared-js/lib/serializer/src/operations.js</span>",
     "variable"
   ],
   [
@@ -1722,6 +1944,12 @@ window.esdocSearchIndex = [
     "member"
   ],
   [
+    "lib/chain/src/chainstore.js~chainstore#fetchallworkers",
+    "class/lib/chain/src/ChainStore.js~ChainStore.html#instance-method-fetchAllWorkers",
+    "lib/chain/src/ChainStore.js~ChainStore#fetchAllWorkers",
+    "method"
+  ],
+  [
     "lib/chain/src/chainstore.js~chainstore#fetchcommitteememberbyaccount",
     "class/lib/chain/src/ChainStore.js~ChainStore.html#instance-method-fetchCommitteeMemberByAccount",
     "lib/chain/src/ChainStore.js~ChainStore#fetchCommitteeMemberByAccount",
@@ -1821,6 +2049,18 @@ window.esdocSearchIndex = [
     "lib/chain/src/chainstore.js~chainstore#getheadblockdate",
     "class/lib/chain/src/ChainStore.js~ChainStore.html#instance-method-getHeadBlockDate",
     "lib/chain/src/ChainStore.js~ChainStore#getHeadBlockDate",
+    "method"
+  ],
+  [
+    "lib/chain/src/chainstore.js~chainstore#getliquiditypoolsbyassets",
+    "class/lib/chain/src/ChainStore.js~ChainStore.html#instance-method-getLiquidityPoolsByAssets",
+    "lib/chain/src/ChainStore.js~ChainStore#getLiquidityPoolsByAssets",
+    "method"
+  ],
+  [
+    "lib/chain/src/chainstore.js~chainstore#getliquiditypoolsbyshareasset",
+    "class/lib/chain/src/ChainStore.js~ChainStore.html#instance-method-getLiquidityPoolsByShareAsset",
+    "lib/chain/src/ChainStore.js~ChainStore#getLiquidityPoolsByShareAsset",
     "method"
   ],
   [

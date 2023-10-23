@@ -1,7 +1,7 @@
 {
   "type": "File",
   "start": 0,
-  "end": 410,
+  "end": 408,
   "loc": {
     "start": {
       "line": 1,
@@ -15,7 +15,7 @@
   "program": {
     "type": "Program",
     "start": 0,
-    "end": 410,
+    "end": 408,
     "loc": {
       "start": {
         "line": 1,
@@ -31,7 +31,7 @@
       {
         "type": "ExpressionStatement",
         "start": 0,
-        "end": 409,
+        "end": 407,
         "loc": {
           "start": {
             "line": 1,
@@ -45,7 +45,7 @@
         "expression": {
           "type": "AssignmentExpression",
           "start": 0,
-          "end": 409,
+          "end": 407,
           "loc": {
             "start": {
               "line": 1,
@@ -110,7 +110,7 @@
           "right": {
             "type": "ObjectExpression",
             "start": 17,
-            "end": 409,
+            "end": 407,
             "loc": {
               "start": {
                 "line": 1,
@@ -659,7 +659,7 @@
               {
                 "type": "ObjectProperty",
                 "start": 321,
-                "end": 372,
+                "end": 370,
                 "loc": {
                   "start": {
                     "line": 8,
@@ -667,7 +667,7 @@
                   },
                   "end": {
                     "line": 8,
-                    "column": 55
+                    "column": 53
                   }
                 },
                 "method": false,
@@ -676,7 +676,7 @@
                 "key": {
                   "type": "Identifier",
                   "start": 321,
-                  "end": 330,
+                  "end": 332,
                   "loc": {
                     "start": {
                       "line": 8,
@@ -684,38 +684,38 @@
                     },
                     "end": {
                       "line": 8,
-                      "column": 13
+                      "column": 15
                     },
-                    "identifierName": "revpop_ws"
+                    "identifierName": "rsquared_ws"
                   },
-                  "name": "revpop_ws"
+                  "name": "rsquared_ws"
                 },
                 "value": {
                   "type": "CallExpression",
-                  "start": 332,
-                  "end": 372,
+                  "start": 334,
+                  "end": 370,
                   "loc": {
                     "start": {
                       "line": 8,
-                      "column": 15
+                      "column": 17
                     },
                     "end": {
                       "line": 8,
-                      "column": 55
+                      "column": 53
                     }
                   },
                   "callee": {
                     "type": "Identifier",
-                    "start": 332,
-                    "end": 339,
+                    "start": 334,
+                    "end": 341,
                     "loc": {
                       "start": {
                         "line": 8,
-                        "column": 15
+                        "column": 17
                       },
                       "end": {
                         "line": 8,
-                        "column": 22
+                        "column": 24
                       },
                       "identifierName": "require"
                     },
@@ -724,31 +724,31 @@
                   "arguments": [
                     {
                       "type": "StringLiteral",
-                      "start": 340,
-                      "end": 371,
+                      "start": 342,
+                      "end": 369,
                       "loc": {
                         "start": {
                           "line": 8,
-                          "column": 23
+                          "column": 25
                         },
                         "end": {
                           "line": 8,
-                          "column": 54
+                          "column": 52
                         }
                       },
                       "extra": {
-                        "rawValue": "@revolutionpopuli/revpopjs-ws",
-                        "raw": "\"@revolutionpopuli/revpopjs-ws\""
+                        "rawValue": "@r-squared/rsquared-js-ws",
+                        "raw": "\"@r-squared/rsquared-js-ws\""
                       },
-                      "value": "@revolutionpopuli/revpopjs-ws"
+                      "value": "@r-squared/rsquared-js-ws"
                     }
                   ]
                 }
               },
               {
                 "type": "ObjectProperty",
-                "start": 378,
-                "end": 407,
+                "start": 376,
+                "end": 405,
                 "loc": {
                   "start": {
                     "line": 9,
@@ -764,8 +764,8 @@
                 "computed": false,
                 "key": {
                   "type": "Identifier",
-                  "start": 378,
-                  "end": 381,
+                  "start": 376,
+                  "end": 379,
                   "loc": {
                     "start": {
                       "line": 9,
@@ -781,8 +781,8 @@
                 },
                 "value": {
                   "type": "CallExpression",
-                  "start": 383,
-                  "end": 407,
+                  "start": 381,
+                  "end": 405,
                   "loc": {
                     "start": {
                       "line": 9,
@@ -795,8 +795,8 @@
                   },
                   "callee": {
                     "type": "Identifier",
-                    "start": 383,
-                    "end": 390,
+                    "start": 381,
+                    "end": 388,
                     "loc": {
                       "start": {
                         "line": 9,
@@ -813,8 +813,8 @@
                   "arguments": [
                     {
                       "type": "StringLiteral",
-                      "start": 391,
-                      "end": 406,
+                      "start": 389,
+                      "end": 404,
                       "loc": {
                         "start": {
                           "line": 9,
@@ -2071,9 +2071,9 @@
         "postfix": false,
         "binop": null
       },
-      "value": "revpop_ws",
+      "value": "rsquared_ws",
       "start": 321,
-      "end": 330,
+      "end": 332,
       "loc": {
         "start": {
           "line": 8,
@@ -2081,7 +2081,7 @@
         },
         "end": {
           "line": 8,
-          "column": 13
+          "column": 15
         }
       }
     },
@@ -2098,16 +2098,16 @@
         "binop": null,
         "updateContext": null
       },
-      "start": 330,
-      "end": 331,
+      "start": 332,
+      "end": 333,
       "loc": {
         "start": {
           "line": 8,
-          "column": 13
+          "column": 15
         },
         "end": {
           "line": 8,
-          "column": 14
+          "column": 16
         }
       }
     },
@@ -2124,16 +2124,16 @@
         "binop": null
       },
       "value": "require",
-      "start": 332,
-      "end": 339,
+      "start": 334,
+      "end": 341,
       "loc": {
         "start": {
           "line": 8,
-          "column": 15
+          "column": 17
         },
         "end": {
           "line": 8,
-          "column": 22
+          "column": 24
         }
       }
     },
@@ -2149,16 +2149,16 @@
         "postfix": false,
         "binop": null
       },
-      "start": 339,
-      "end": 340,
+      "start": 341,
+      "end": 342,
       "loc": {
         "start": {
           "line": 8,
-          "column": 22
+          "column": 24
         },
         "end": {
           "line": 8,
-          "column": 23
+          "column": 25
         }
       }
     },
@@ -2175,17 +2175,17 @@
         "binop": null,
         "updateContext": null
       },
-      "value": "@revolutionpopuli/revpopjs-ws",
-      "start": 340,
-      "end": 371,
+      "value": "@r-squared/rsquared-js-ws",
+      "start": 342,
+      "end": 369,
       "loc": {
         "start": {
           "line": 8,
-          "column": 23
+          "column": 25
         },
         "end": {
           "line": 8,
-          "column": 54
+          "column": 52
         }
       }
     },
@@ -2201,16 +2201,16 @@
         "postfix": false,
         "binop": null
       },
-      "start": 371,
-      "end": 372,
+      "start": 369,
+      "end": 370,
       "loc": {
         "start": {
           "line": 8,
-          "column": 54
+          "column": 52
         },
         "end": {
           "line": 8,
-          "column": 55
+          "column": 53
         }
       }
     },
@@ -2227,16 +2227,16 @@
         "binop": null,
         "updateContext": null
       },
-      "start": 372,
-      "end": 373,
+      "start": 370,
+      "end": 371,
       "loc": {
         "start": {
           "line": 8,
-          "column": 55
+          "column": 53
         },
         "end": {
           "line": 8,
-          "column": 56
+          "column": 54
         }
       }
     },
@@ -2253,8 +2253,8 @@
         "binop": null
       },
       "value": "aes",
-      "start": 378,
-      "end": 381,
+      "start": 376,
+      "end": 379,
       "loc": {
         "start": {
           "line": 9,
@@ -2279,8 +2279,8 @@
         "binop": null,
         "updateContext": null
       },
-      "start": 381,
-      "end": 382,
+      "start": 379,
+      "end": 380,
       "loc": {
         "start": {
           "line": 9,
@@ -2305,8 +2305,8 @@
         "binop": null
       },
       "value": "require",
-      "start": 383,
-      "end": 390,
+      "start": 381,
+      "end": 388,
       "loc": {
         "start": {
           "line": 9,
@@ -2330,8 +2330,8 @@
         "postfix": false,
         "binop": null
       },
-      "start": 390,
-      "end": 391,
+      "start": 388,
+      "end": 389,
       "loc": {
         "start": {
           "line": 9,
@@ -2357,8 +2357,8 @@
         "updateContext": null
       },
       "value": "./ecc/src/aes",
-      "start": 391,
-      "end": 406,
+      "start": 389,
+      "end": 404,
       "loc": {
         "start": {
           "line": 9,
@@ -2382,8 +2382,8 @@
         "postfix": false,
         "binop": null
       },
-      "start": 406,
-      "end": 407,
+      "start": 404,
+      "end": 405,
       "loc": {
         "start": {
           "line": 9,
@@ -2407,8 +2407,8 @@
         "postfix": false,
         "binop": null
       },
-      "start": 408,
-      "end": 409,
+      "start": 406,
+      "end": 407,
       "loc": {
         "start": {
           "line": 10,
@@ -2433,8 +2433,8 @@
         "binop": null,
         "updateContext": null
       },
-      "start": 410,
-      "end": 410,
+      "start": 408,
+      "end": 408,
       "loc": {
         "start": {
           "line": 11,

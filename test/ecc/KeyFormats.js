@@ -1,6 +1,6 @@
 import { Aes, PrivateKey, PublicKey, Address } from "../../lib";
 import assert from "assert";
-import {ChainConfig} from "@revolutionpopuli/revpopjs-ws";
+import {ChainConfig} from "@r-squared/rsquared-js-ws";
 
 var test = function(key) {
     describe("KeyFormats", function() {
@@ -18,7 +18,7 @@ var test = function(key) {
 
             it("Create REV short address", function() {
                 var public_key = PublicKey.fromPublicKeyString(key.public_key);
-                assert.equal(key.rvp_address, public_key.toAddressString());
+                assert.equal(key.rqrx_address, public_key.toAddressString());
             })
 
             it("Blockchain Address", function() {
@@ -50,7 +50,7 @@ var test = function(key) {
             it("Calc public key", function() {
                 var private_key = PrivateKey.fromHex(key.private_key);
                 var public_key = private_key.toPublicKey();
-                assert.equal(key.rvp_address, public_key.toAddressString());
+                assert.equal(key.rqrx_address, public_key.toAddressString());
             });
 
             it("Decrypt private key", function() {

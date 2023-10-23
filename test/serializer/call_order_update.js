@@ -1,5 +1,5 @@
 import {ops} from "../../lib/";
-import {Apis} from "@revolutionpopuli/revpopjs-ws";
+import {Apis} from "@r-squared/rsquared-js-ws";
 
 import assert from "assert";
 var trans1 = {
@@ -103,12 +103,12 @@ function equalTrans(trans) {
     };
 }
 
-// curl - d '{"id":1,"method":"call","params":[0,"get_transaction_hex",[{}]]}' https://testnet.revolutionpopuli.com/ws
+// curl - d '{"id":1,"method":"call","params":[0,"get_transaction_hex",[{}]]}' https://testnet.rsquared.com/ws
 xdescribe("call_order_update serialization", function() {
     describe("same as backend", function() {
         before(function() {
             return Apis.instance(
-                "wss://testnet.revolutionpopuli.com",
+                "wss://node.rsquared.digital",
                 true
             ).init_promise;
         });

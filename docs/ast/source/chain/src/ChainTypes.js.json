@@ -1768,9 +1768,9 @@
                       "line": 33,
                       "column": 23
                     },
-                    "identifierName": "vote_master_summary"
+                    "identifierName": "ico_balance"
                   },
-                  "name": "vote_master_summary"
+                  "name": "ico_balance"
                 },
                 "value": {
                   "type": "NumericLiteral",
@@ -10426,7 +10426,7 @@
         "postfix": false,
         "binop": null
       },
-      "value": "vote_master_summary",
+      "value": "ico_balance",
       "start": 662,
       "end": 681,
       "loc": {

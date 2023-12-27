@@ -1,11 +1,11 @@
-import {Apis} from "@revolutionpopuli/revpopjs-ws";
+import {Apis} from "@r-squared/rsquared-js-ws";
 import {TransactionBuilder, PrivateKey} from "../lib";
 import {asset} from "../lib/serializer/src/operations";
 
 const wifKey = "5KBuq5WmHvgePmB7w3onYsqLM8ESomM2Ae7SigYuuwg8MDHW7NN";
 const pKey = PrivateKey.fromWif(wifKey);
 
-Apis.instance("wss://testnet.revolutionpopuli.com", true).init_promise.then(
+Apis.instance("wss://node.rsquared.digital", true).init_promise.then(
     res => {
         console.log("connected to:", res[0].network_name, "network");
 

@@ -6,8 +6,8 @@ import {
     ops,
     types
 } from "../../lib";
-// import { Apis } from '@revolutionpopuli/revpopjs-ws';
-import {Apis, ChainConfig} from "@revolutionpopuli/revpopjs-ws";
+// import { Apis } from '@r-squared/rsquared-js-ws';
+import {Apis, ChainConfig} from "@r-squared/rsquared-js-ws";
 import assert from "assert";
 
 describe("issue13", function() {
@@ -68,7 +68,7 @@ describe("issue13", function() {
             signatures: []
         };
         return Apis.instance(
-            "wss://testnet.revolutionpopuli.com",
+            "wss://node.rsquared.digital",
             true
         ).init_promise.then(() => {
             var b = ops.transaction.toBuffer(a);

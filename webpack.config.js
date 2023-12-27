@@ -5,7 +5,7 @@ module.exports = {
     mode: "production",
     output: {
         path: path.resolve(__dirname, "build"),
-        filename: "revpopjs.cjs",
+        filename: "rsquared-js.cjs",
         library: {
             type: "commonjs"
         },

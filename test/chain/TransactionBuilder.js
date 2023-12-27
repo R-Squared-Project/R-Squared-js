@@ -1,12 +1,12 @@
 import assert from "assert";
-import {Apis} from "@revolutionpopuli/revpopjs-ws";
+import {Apis} from "@r-squared/rsquared-js-ws";
 import {TransactionBuilder, ops, hash} from "../../lib";
 
 xdescribe("TransactionBuilder", () => {
     // Connect once for all tests
     before(function() {
         return new Promise(function(resolve, reject) {
-            Apis.instance("wss://testnet.revolutionpopuli.com", true)
+            Apis.instance("wss://node.rsquared.digital", true)
                 .init_promise.then(resolve)
                 .catch(reject);
         });

@@ -1,11 +1,11 @@
-import {Apis} from "@revolutionpopuli/revpopjs-ws";
+import {Apis} from "@r-squared/rsquared-js-ws";
 import {ChainStore, FetchChain, PrivateKey, TransactionHelper, Aes, TransactionBuilder} from "../lib";
 
-var witness_node = "wss://testnet.revolutionpopuli.com"
+var witness_node = "wss://node.rsquared.digital"
 var nobroadcast = false
 var amount_to_send = 10000
 var asset_to_send = "TEST"
-var from_account = "revpopjs"
+var from_account = "rsquared-js"
 var to_account = "faucet"
 var memo_text = "Your memo goes in here.."
 
